@@ -1,10 +1,10 @@
 # Business Continuity and Disaster Recovery Plan 
-## For Vergil Assisted Living Project
+## For Vergil Co. Assisted Living Project
 
 ---
 
 ### **Overview**
-Vergil Assisted Living is a residential care facility providing comprehensive support to senior residents. The facility includes living quarters, medical stations, recreational areas, and administrative offices. This Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP) are designed to ensure uninterrupted care for residents and swift recovery from disruptions.
+Vergil Co. Assisted Living is a residential care facility providing comprehensive support to senior residents. The facility includes living quarters, medical stations, recreational areas, and administrative offices. This Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP) are designed to ensure uninterrupted care for residents and swift recovery from disruptions.
 
 ---
 
@@ -199,5 +199,5 @@ Vergil Assisted Living is a residential care facility providing comprehensive su
 ---
 
 **Author:** Stephanie Vergil  
-Here's the link to project: Business Continuity and Disaster Recovery Plan
+Here's the link to project: [Business Continuity and Disaster Recovery Plan](https://github.com/StephVergil/Business-Continuity-and-Disaster-Recovery-Plan-/blob/main/A%20Business%20Continuity%20and%20Disaster%20Recovery%20Perspective.docx)
 
